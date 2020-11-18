@@ -4,5 +4,23 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c8ce582e92885354fa085cea1be4805c
+  - enabled: 1
+    path: Assets/Scenes/Difficulty.unity
+    guid: 242c9dbdb8a725d478a1685d7d3a8b8a
+  - enabled: 1
+    path: Assets/Scenes/ParachuteTest.unity
+    guid: 918c7997590ccb34694f629870e92079
+  - enabled: 1
+    path: Assets/Scenes/BigTarget.unity
+    guid: 0626df27b6c26c74883fdf63e7f03ca6
+  - enabled: 1
+    path: Assets/Scenes/MediumTarget.unity
+    guid: 247c19e688e6feb47be303335f1d2c5d
+  - enabled: 1
+    path: Assets/Scenes/SmallTarget.unity
+    guid: b815a5b11b9671e4cb0030d101366126
   m_configObjects: {}
